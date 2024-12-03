@@ -1,4 +1,4 @@
-package com.generation.projetointegrador.Repository;
+package com.generation.projetointegrador.repository;
 
 import com.generation.projetointegrador.model.Cargo;
 import org.springframework.data.jpa.repository.JpaRepository;

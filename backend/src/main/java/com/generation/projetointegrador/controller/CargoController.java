@@ -1,7 +1,7 @@
-package com.generation.projetointegrador.Controller;
-
-import com.generation.projetointegrador.Repository.CargoRepository;
+package com.generation.projetointegrador.controller;
+import com.generation.projetointegrador.repository.CargoRepository;
 import com.generation.projetointegrador.model.Cargo;
+
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
